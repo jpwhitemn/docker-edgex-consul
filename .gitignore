@@ -16,3 +16,5 @@
 # GoLand/ Jetbrains IDE
 /.idea
 VERSION
+
+go.sum
